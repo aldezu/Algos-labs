@@ -1,0 +1,7 @@
+﻿  Hamurrabi_Game.cpp
+e:\@algos_labs_game\hamurrabi_game\hamurrabi_game\hamurrabi_game.cpp(49): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\hamurrabi_game\hamurrabi_game\hamurrabi_game.cpp(94): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+e:\@algos_labs_game\hamurrabi_game\hamurrabi_game\hamurrabi_game.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+e:\@algos_labs_game\hamurrabi_game\hamurrabi_game\hamurrabi_game.cpp(196): warning C4018: <: несоответствие типов со знаком и без знака
+e:\@algos_labs_game\hamurrabi_game\hamurrabi_game\hamurrabi_game.cpp(216): warning C4018: <: несоответствие типов со знаком и без знака
+  Hamurrabi_Game.vcxproj -> E:\@Algos_labs_game\Hamurrabi_Game\Debug\Hamurrabi_Game.exe
