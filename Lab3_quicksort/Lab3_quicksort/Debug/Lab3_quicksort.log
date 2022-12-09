@@ -1,0 +1,5 @@
+﻿  Lab3_quicksort.cpp
+e:\@algos_labs_game\lab3_quicksort\lab3_quicksort\lab3_quicksort.cpp(34): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SortingMess.cpp
+  Создание кода...
+  Lab3_quicksort.vcxproj -> E:\@Algos_labs_game\Lab3_quicksort\Debug\Lab3_quicksort.exe

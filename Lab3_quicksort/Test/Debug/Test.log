@@ -1,0 +1,14 @@
+﻿  Test.cpp
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(43): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(66): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(82): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(105): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(107): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(121): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(123): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(144): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(146): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(160): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\@algos_labs_game\lab3_quicksort\test\test.cpp(162): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Test.vcxproj -> E:\@Algos_labs_game\Lab3_quicksort\Debug\Test.dll
