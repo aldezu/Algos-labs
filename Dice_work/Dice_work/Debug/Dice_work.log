@@ -1,0 +1,4 @@
+﻿  Dice_work.cpp
+e:\@algos_labs_game\dice_work\dice_work\dice_work.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+e:\@algos_labs_game\dice_work\dice_work\dice_work.cpp(50): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Dice_work.vcxproj -> E:\@Algos_labs_game\Dice_work\Debug\Dice_work.exe
